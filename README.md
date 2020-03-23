@@ -4,14 +4,14 @@
 
 ### Backend: Nodejs
 
-- [] npm init -y
-- [] [sudo] npm install express
-- [] criação do arquivo index.js
-- [] executar node index.js para testar
+- [ ] npm init -y
+- [ ] [sudo] npm install express
+- [ ] criação do arquivo index.js
+- [ ] executar node index.js para testar
 
 ### Frontend: React
 
-- [] [sudo] npx create-react-app frontend
+- [ ] [sudo] npx create-react-app frontend
 
 ### Mobile: React Native/Expo
-- [] 
+- [ ] 
