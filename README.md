@@ -24,7 +24,7 @@
 
 ### Frontend: React
 
-- [ ] [sudo] npx create-react-app frontend
+- [x] [sudo] npx create-react-app frontend
 
 ### Mobile: React Native/Expo
 
@@ -35,15 +35,15 @@
 #### Database: 
 
 ##### Entidades: 
-- [ ] ONG
-- [ ] Casos
+- [x] ONG
+- [x] Casos
 
 ##### Funcionalidades: 
-- [ ] Login de ONG
-- [ ] Logout de ONG
-- [ ] Cadastro de ONG
-- [ ] Cadastro de novos casos
-- [ ] Deletar casos
-- [ ] Listar casos específicos de uma ONG
-- [ ] Listar todos os casos 
-- [ ] Entrar em contato com a ONG
+- [x] Login de ONG
+- [x] Logout de ONG
+- [x] Cadastro de ONG
+- [x] Cadastro de novos casos
+- [x] Deletar casos
+- [x] Listar casos específicos de uma ONG
+- [x] Listar todos os casos 
+- [x] Entrar em contato com a ONG
