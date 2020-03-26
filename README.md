@@ -25,9 +25,9 @@
 ### Frontend: React
 
 - [x] [sudo] npx create-react-app frontend
-- [ ] deletar arquivos desnecessários: README, App.css, App.test.js, logo.svg, index.css, serviceworker, setupTests.js, public/robots.txt, public/manifest.json, public/logos, 
-- [ ] excluir importações dos arquivos deletados dentro de index.js, App.js e public/index.html
-- [ ] settings.json -> adicionar as linhas "emmet.syntaxProfiles": {"javascript": jsx}, "emmet.includeLanguages": { "javascript": "javascriptreact"},
+- [x] deletar arquivos desnecessários: README, App.css, App.test.js, logo.svg, index.css, serviceworker, setupTests.js, public/robots.txt, public/manifest.json, public/logos, 
+- [x] excluir importações dos arquivos deletados dentro de index.js, App.js e public/index.html
+- [x] settings.json -> adicionar as linhas "emmet.syntaxProfiles": {"javascript": jsx}, "emmet.includeLanguages": { "javascript": "javascriptreact"},
 
 ### Mobile: React Native/Expo
 
