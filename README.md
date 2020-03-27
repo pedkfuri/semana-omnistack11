@@ -31,12 +31,16 @@
 
 ### Mobile: React Native/Expo
 
-- [ ] 
-
-
+- [x] npm install -g expo-cli (-g = global)
+- [x] expo init mobile -> cd mobile
+- [x] npm install @react-navigation/native
+- [x] expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+- [x] expo install expo-constants
+- [x] expo install expo-mail-composer 
+- [x] npm install axios
+- [x] npm install intl -> transformar reais etc
 
 #### Database: 
-
 ##### Entidades: 
 - [x] ONG
 - [x] Casos
