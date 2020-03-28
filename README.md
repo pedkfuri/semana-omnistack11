@@ -21,6 +21,7 @@
 - [x] npx knex migrate:make create_incidents
 - [x] npx knex migrate:latest -> cria a tabela
 - [x] npm install cors -> determina quem pode acessar a aplicação
+- [ ] npm install celebrate -> validações
 
 ### Frontend: React
 
@@ -54,3 +55,26 @@
 - [x] Listar casos específicos de uma ONG
 - [x] Listar todos os casos 
 - [x] Entrar em contato com a ONG
+
+#### Testes:
+- [x] npm install jest -D
+- [x] npx jest --init
+- [x] npm test
+- [x] npm install cross-env
+- [x] npm install supertest -D
+
+#### Depois: 
+
+###### Deploy: 
+- [ ] BACKEND => Simples: Heroku /// Comercial: Digital Ocean, AWS, Azure, Google Cloud
+- [ ] FRONTEND => Netlify
+
+##### Padrões de código: 
+- [ ] ESLint
+- [ ] Prettier
+
+##### Autenticação:
+- [ ] JWT
+
+##### Estilização: 
+- [ ] Styled components

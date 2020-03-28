@@ -1,13 +1,15 @@
 const express = require('express');
 const cors = require('cors');
+const {errors} = require('celebrate');
 const routes = require('./routes')
 
-const app = express();
 
+const app = express();
+    
 app.use(cors(/* { origin: 'http://nomedoapp.com' } */)); 
 app.use(express.json());
 app.use(routes);
-
+app.use(errors());
 // Rota / Recurso 
 // Métodos HTTP: GET, UPDATE, DELETE, PUT
 
@@ -23,4 +25,4 @@ app.use(routes);
 // - instalar o Driver: SELECT * FROM users
 // - usar query builder: table('users').select('*').where()... <- VAMOS USAR ESSE: KNEX.JS
 
-app.listen(5000);
+module.exports = app;
