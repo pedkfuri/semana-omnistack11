@@ -2,6 +2,7 @@
 
 ## Passo a passo: 
 
+
 ### Backend: Nodejs
 
 - [x] npm init -y
@@ -74,7 +75,7 @@
 - [ ] Prettier
 
 ##### Autenticação:
-- [ ] JWT
+- [x] JWT
 
 ##### Estilização: 
 - [ ] Styled components
